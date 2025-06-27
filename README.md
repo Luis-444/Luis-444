@@ -27,8 +27,10 @@
 
 <h2> ⚙️ Tecnologías que uso <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
-<p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,tailwind,alphine,git,blender,gitlab,vue)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,laravel,tailwind,alphine,git,blender,gitlab,vue"/>
+  </a>
 </p>
 
 ---
