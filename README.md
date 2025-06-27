@@ -28,15 +28,7 @@
 <h2> ⚙️ Tecnologías que uso <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
 
 <p>
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="32px" src="https://img.icons8.com/color/48/000000/tailwind_css.png" />
-  <img width="32px" src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,tailwind,alphine,git,blender,gitlab,vue)](https://skillicons.dev)
 </p>
 
 ---
