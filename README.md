@@ -4,15 +4,12 @@
 
 <h1> Hello < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Luis-444.Luis-444)
-[![GitHub Followers](https://img.shields.io/github/followers/Luis-444?label=Follow&style=social)](https://github.com/Luis-444)
-
 <div size='20px'> ¡Hola! Soy Luis Manuel Magaña Loyo. Gracias por visitar mi perfil de GitHub 😊
 </div>
 
 ---
 
-<h2> 🧑‍💻 Sobre mí <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"></h2>
+<h2> 🧑‍💻 Sobre mí width="100px"></h2>
 
 <img width="55%" align="right" alt="GitHub Code" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -29,21 +26,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,laravel,tailwind,alphine,git,blender,gitlab,vue"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,laravel,tailwind,alpinejs,git,blender,gitlab,vue"/>
   </a>
 </p>
 
 ---
 
-<h2> 🤝 Conecta conmigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<h2> 🤝 Conecta conmigo </h2>
 
-<a href="https://www.linkedin.com/in/tu-usuario">
+<a href="https://www.linkedin.com/in/luis-manuel-magaña-loyo">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />
 </a>
-<a href="https://twitter.com/tu_usuario">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" />
-</a>
-<a href="mailto:tu-correo@example.com">
+<a href="mailto:luismanuelmaganaloyo@gmail.com">
   <img width="32px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
 </a>
 <a href="https://github.com/Luis-444">
