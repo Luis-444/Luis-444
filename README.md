@@ -6,12 +6,12 @@
 
 ---
 
-<h2> 🧑‍💻 Sobre mí width="100px"></h2>
+<h2> 🧑‍💻 Sobre mí></h2>
 
 <img width="55%" align="right" alt="GitHub Code" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Actualmente trabajo desarrollando sistemas administrativos para empresas  
-- 🌱 Siempre aprendiendo más sobre desarrollo moderno y eficiente  
+- 🔭 Actualmente trabajo desarrollando sistemas administrativos para empresas
+- 🌱 Me encuentro aprendiendo Vue.js para el area de front-end
 - 💡 Me apasiona automatizar procesos y crear experiencias web efectivas  
 - 🧠 Enfocado en el stack **TALL (Tailwind, Alpine.js, Laravel, Livewire)**  
 - 💬 Pregúntame sobre Laravel, Livewire, Tailwind, Alpine, PHP y MySQL  
@@ -19,7 +19,7 @@
 
 ---
 
-<h2> ⚙️ Tecnologías que uso <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
+<h2> ⚙️ Tecnologías que uso </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
