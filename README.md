@@ -1,6 +1,3 @@
-<p align="center">
-    <img width="200" src="https://i.imgur.com/sOMELOGO.png" alt="Luis Magaña">
-</p>
 
 <h1> Hello < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
@@ -34,7 +31,7 @@
 
 <h2> 🤝 Conecta conmigo </h2>
 
-<a href="https://www.linkedin.com/in/luis-manuel-magaña-loyo">
+<a href="https://www.linkedin.com/in/luis-manuel-magaña-loyo-b41171216/">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />
 </a>
 <a href="mailto:luismanuelmaganaloyo@gmail.com">
